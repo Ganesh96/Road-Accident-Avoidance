@@ -1,0 +1,2 @@
+# Road-Accident-Avoidance
+Undergraduate final year project that uses localization and classifier to tag traffic sign, on-coming car and people, that then sends response to microcontroller that uses python scripts to alert the driver. The classifier used achieved 93.4 % accuracy for generic scenerios but the quality of the model performance was affected in special cases like low-light, and other environmental phenomenon. The project focus was majorly devoted to building a model that uses fastmatch algorithm.
